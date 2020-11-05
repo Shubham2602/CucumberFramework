@@ -25,7 +25,7 @@ public class Feature1SD {
 	@When("^get method is called\\.$")
 	public void get_method_is_called() throws Throwable {
 		testClass.setName("Shubham");
-		testClass.setId("11574302");
+		testClass.setId("112");
 		testClass.setCompany("Accenture");
 	}
 
